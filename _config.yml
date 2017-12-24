@@ -1,0 +1,11 @@
+# basic options
+title: New Blog
+author: Bruno Kabahizi
+email: bruno.kabahizi@gmail.com
+description: A wonderful blog 
+twitter_username: kabahizi
+github_username:  kabahizi
+
+# Build settings
+markdown: kramdown
+theme: minima
